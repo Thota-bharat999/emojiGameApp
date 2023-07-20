@@ -1,0 +1,16 @@
+.app-container {
+  background-image: linear-gradient(to right bottom, #9796f0, #fbc7d4);
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 50%;
+  height: 50%;
+}

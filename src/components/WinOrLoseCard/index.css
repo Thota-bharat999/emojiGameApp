@@ -1,0 +1,41 @@
+.win-container {
+  padding: 30px;
+  background-color: #ffffff33;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-radius: 12px;
+}
+.win-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: bolder;
+}
+.win-description {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: bolder;
+
+  text-align: center;
+}
+.span {
+  color: blue;
+}
+.win-button {
+  background-color: #ffce27;
+  color: #3d3d3d;
+  border-radius: 15px;
+  border: 12px;
+  padding: 8px 12px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+.win-images {
+  width: 180px;
+  height: 260px;
+  margin-left: 12px;
+}

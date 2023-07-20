@@ -1,0 +1,25 @@
+/* Write your code here. */
+li {
+  background-color: #ffffff33;
+  padding: 8px;
+  list-style-type: none;
+  margin: 6px;
+  border-radius: 12px;
+  width: 150px;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-image {
+  width: 120px;
+  height: 120px;
+}
+
+.emoji-button {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}

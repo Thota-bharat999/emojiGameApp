@@ -1,0 +1,38 @@
+nav {
+  background-color: #9796f0;
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 2%;
+  padding-right: 2%;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+}
+.nav-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 26px;
+  font-weight: bold;
+}
+.nav-score-container {
+  display: flex;
+  align-items: center;
+}
+.nav-heading-container {
+  display: flex;
+  justify-content: center;
+}
+.score-description {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 26px;
+  font-weight: bold;
+  text-shadow: aliceblue;
+}
+.top-score-description {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 26px;
+  font-weight: bold;
+  margin-left: 12px;
+}
